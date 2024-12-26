@@ -28,6 +28,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-💼 &nbsp; <a href="www.linkedin.com/in/guilherme-gervasio">LinkedIn</a>
 
