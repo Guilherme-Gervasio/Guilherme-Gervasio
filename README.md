@@ -29,5 +29,5 @@
 ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+💼 &nbsp; <a href="mailto:felipemota.rocha@gmail.com"</a>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Gervasio&show_icons=true&theme=dracula)
