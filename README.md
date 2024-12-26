@@ -29,5 +29,5 @@
 ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-💼 &nbsp; <a href="mailto:felipemota.rocha@gmail.com"</a>
+💼 &nbsp; LinkedIn: <a href="www.linkedin.com/in/guilherme-gervásio"</h2>>
 
