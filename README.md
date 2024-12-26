@@ -1,7 +1,5 @@
 <h1>👋 &nbsp;Olá, eu sou o Guilherme, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="www.linkedin.com/in/guilherme-gervásio"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
