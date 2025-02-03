@@ -24,7 +24,7 @@
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.Js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Next.Js]([https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js))
+![NextJs]([https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js))
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
