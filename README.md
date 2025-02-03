@@ -5,7 +5,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-🖥️🎓 &nbsp; Desde os 14 anos, quando comecei a explorar o universo da programação, me apaixonei pela área. Esse interesse inicial me levou a buscar uma formação técnica em Desenvolvimento de Sistemas pela ETEC, onde tive a oportunidade de aprender lógica de programação, desenvolvimento web, banco de dados, engenharia de software e boas práticas na criação de aplicações robustas. Atualmente, estou cursando o Bacharelado em Ciência da Computação na Universidade São Judas Tadeu (USJT), aprofundando meus conhecimentos em algoritmos, estrutura de dados, inteligência artificial e segurança da informação.
+🖥️🎓 &nbsp; Desde os 14 anos, quando comecei a explorar o universo da programação, me apaixonei pela área. Esse interesse inicial me levou a buscar uma formação técnica em Desenvolvimento de Sistemas, onde tive a oportunidade de aprender lógica de programação, desenvolvimento web, banco de dados, engenharia de software e boas práticas na criação de aplicações robustas. Atualmente, estou cursando o Bacharelado em Ciência da Computação, aprofundando meus conhecimentos em algoritmos, estrutura de dados, inteligência artificial e segurança da informação.
 
 💻🔐 &nbsp; Ao longo dessa trajetória, desenvolvi e continuo aprimorando softwares web com foco em autenticação de usuários, aplicando os princípios SOLID para garantir segurança e escalabilidade. Busco constantemente implementar padrões que otimizem o desempenho das aplicações. Tenho experiência prática no desenvolvimento de soluções utilizando tecnologias modernas como React, TypeScript, Next.js, Node.js, PostgreSQL e TailwindCSS.
 
