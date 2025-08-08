@@ -5,11 +5,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-🖥️🎓 &nbsp; Desde os 14 anos, quando comecei a explorar o universo da programação, me apaixonei pela área. Esse interesse inicial me levou a buscar uma formação técnica em Desenvolvimento de Sistemas, onde tive a oportunidade de aprender lógica de programação, desenvolvimento web, banco de dados, engenharia de software e boas práticas na criação de aplicações robustas. Atualmente, estou cursando o Bacharelado em Ciência da Computação, aprofundando meus conhecimentos em algoritmos, estrutura de dados, inteligência artificial e segurança da informação.
+🖥️🎓 &nbsp; Desde os 14 anos, quando comecei a explorar o universo da programação, desenvolvi uma paixão que moldou minha trajetória profissional. Concluí a formação técnica em Desenvolvimento de Sistemas pela ETEC, onde aprendi lógica de programação, desenvolvimento web, banco de dados e engenharia de software. Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec Zona Leste, aprofundando conhecimentos em arquitetura de sistemas, integração de tecnologias, segurança da informação e boas práticas de desenvolvimento web.
 
-💻🔐 &nbsp; Ao longo dessa trajetória, desenvolvi e continuo aprimorando softwares web com foco em autenticação de usuários, aplicando os princípios SOLID para garantir segurança e escalabilidade. Busco constantemente implementar padrões que otimizem o desempenho das aplicações. Tenho experiência prática no desenvolvimento de soluções utilizando tecnologias modernas como React, TypeScript, Next.js, Node.js, PostgreSQL e TailwindCSS.
+💻🔐 &nbsp; Tenho experiência prática no desenvolvimento de sites e aplicações web modernas, com foco em autenticação de usuários, escalabilidade e desempenho. Utilizo tecnologias como React, TypeScript, Next.js, Node.js, PostgreSQL e TailwindCSS, aplicando princípios SOLID e padrões de arquitetura para criar soluções robustas, seguras e de fácil manutenção.
 
-🚀💼 &nbsp; Meu objetivo é conquistar oportunidades nas áreas de Front-end, Back-end ou Full Stack, onde posso aplicar e evoluir minhas habilidades em desenvolvimento de software, contribuindo para projetos inovadores e de alto impacto.
+🚀💼 &nbsp; Busco oportunidades como Desenvolvedor Front-end, Back-end ou Full Stack, onde possa aplicar minhas habilidades e contribuir para projetos inovadores e de alto impacto.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
